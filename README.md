@@ -47,7 +47,6 @@ python weather_app.py
 ## Screenshots
 
 ![App Screenshot](screenshot.png)  
-_Add an actual screenshot of your app here._
 
 ## Notes
 
