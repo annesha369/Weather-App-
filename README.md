@@ -1,5 +1,7 @@
 # Weather App
 
+![App Screenshot](screenshot.png)  
+
 A simple GUI-based weather application built using Python and Tkinter that fetches real-time weather data using the OpenWeatherMap API.
 
 ## Features
@@ -44,9 +46,6 @@ python weather_app.py
 
 4. Enter a city name in the search bar and click the search button to retrieve weather information.
 
-## Screenshots
-
-![App Screenshot](screenshot.png)  
 
 ## Notes
 
